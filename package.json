@@ -1,0 +1,23 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "npm location",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheGreatA/npm.git"
+  },
+  "author": "Austin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheGreatA/npm/issues"
+  },
+  "homepage": "https://github.com/TheGreatA/npm#readme",
+  "dependencies": {
+    "curl": "^0.1.4",
+    "jquery": "^3.3.1"
+  }
+}
